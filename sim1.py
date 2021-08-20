@@ -17,8 +17,8 @@ import matplotlib.animation as animation
 x0= 0
 y0= 0
 
-v0y= 26 #velocidad inicial
-ang= 40 # angulo del tiro
+v0y= 20 #velocidad inicial
+ang= 30 # angulo del tiro
 
 g= 9.81   # valor de la gravedad
 h= 50     # altura
